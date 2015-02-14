@@ -3,4 +3,4 @@ Epageo Website Production
 
 Please get updated website from https://github.com/iamlalit/epageo-website
 
-Updated core.js (activenav.js and hoverlogo.js)
+Let the activenav.js and hoverlogo.js to be the same as in this production environment.
