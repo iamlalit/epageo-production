@@ -1,0 +1,142 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "epageo";
+  src:url("fonts/epageo.eot");
+  src:url("fonts/epageo.eot?#iefix") format("embedded-opentype"),
+    url("fonts/epageo.woff") format("woff"),
+    url("fonts/epageo.ttf") format("truetype"),
+    url("fonts/epageo.svg#epageo") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[data-icon]:before {
+  font-family: "epageo" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="icon-"]:before,
+[class*=" icon-"]:before {
+  font-family: "epageo" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-tools:before {
+  content: "a";
+}
+.icon-timer:before {
+  content: "b";
+}
+.icon-shopping-cart:before {
+  content: "c";
+}
+.icon-discovery:before {
+  content: "d";
+}
+.icon-dollar:before {
+  content: "e";
+}
+.icon-strings:before {
+  content: "f";
+}
+.icon-drawing:before {
+  content: "g";
+}
+.icon-globe:before {
+  content: "h";
+}
+.icon-graph:before {
+  content: "i";
+}
+.icon-bucket:before {
+  content: "j";
+}
+.icon-beaker:before {
+  content: "l";
+}
+.icon-badge:before {
+  content: "m";
+}
+.icon-arrow:before {
+  content: "n";
+}
+.icon-bulb:before {
+  content: "o";
+}
+.icon-monitormob:before {
+  content: "p";
+}
+.icon-chat:before {
+  content: "q";
+}
+.icon-cart:before {
+  content: "r";
+}
+.icon-lock:before {
+  content: "s";
+}
+.icon-location:before {
+  content: "t";
+}
+.icon-network:before {
+  content: "u";
+}
+.icon-click:before {
+  content: "v";
+}
+.icon-cog:before {
+  content: "w";
+}
+.icon-play:before {
+  content: "x";
+}
+.icon-point-blank:before {
+  content: "y";
+}
+.icon-contact:before {
+  content: "z";
+}
+.icon-crawler:before {
+  content: "A";
+}
+.icon-search:before {
+  content: "B";
+}
+.icon-setting-alt:before {
+  content: "C";
+}
+.icon-direction:before {
+  content: "D";
+}
+.icon-algorithm:before {
+  content: "E";
+}
+.icon-strategy8:before {
+  content: "F";
+}
+.icon-briefcase:before {
+  content: "k";
+}
+.icon-strategy:before {
+  content: "G";
+}
+.icon-brain:before {
+  content: "H";
+}
